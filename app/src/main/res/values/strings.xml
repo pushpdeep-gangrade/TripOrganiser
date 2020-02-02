@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Trip Organizer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_username_placeholder">Username</string>
+    <string name="et_password_placeholder">Password</string>
+    <string name="et_confirm_password_placeholder">Confirm Password</string>
+    <string name="btn_login_text">Login</string>
+    <string name="btn_singUp_text">Sign Up</string>
+    <string name="btn_submit_text">Submit</string>
+    <string name="tv_first_name_label">First Name</string>
+    <string name="tv_last_name_label">Last Name</string>
+    <string name="tv_gender_name_label">Gender</string>
+    <string name="db_dashboard_title">Trips</string>
+    <string name="cr_et_enter_message_placeholder">Enter message</string>
+    <string name="signoutLabel">Sign Out</string>
+    <string name="triptitleLabel">Title</string>
+    <string name="latLabel">Latitude</string>
+    <string name="lngLabel">Longitiude</string>
+    <string name="saveTrip">Save Trip</string>
+    <string name="AddLabel">Add</string>
+    <string name="invite_users_label">Invite</string>
+    <string name="sign_up_button_text">Not a user ? Sign Up here!!</string>
+    <string name="male_label_text">Male</string>
+    <string name="female_label_text">Female</string>
+    <string name="upload_image_label_text">Upload Image</string>
+    <string name="chat_room_button_text">Chat Room</string>
+    <string name="invite_users_button_text">Invite Users</string>
+    <string name="invited_users_list_label_text">List of users invited :</string>
+    <string name="join_button_text">Join</string>
+    <string name="delete_trip_button_text">Delete Trip</string>
+    <string name="total_user_label_text">Total Users</string>
+    <string name="email_placeholder">Email Address</string>
+    <string name="saveUserLabel">Save Users</string>
+</resources>
